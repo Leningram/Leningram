@@ -1,8 +1,22 @@
-- 👋 Hi, I’m @Leningram
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning React/Redux and VueJs
-- 💞️ I’m looking to collaborate on ... anyone... please. :-\
-- 📫 How to reach me yes.kanat@gmail.com || Telegram  @kanatyes<br>
-![Profile views](https://gpvc.arturio.dev/Leningram)
+### Hi there 👋, my name is Kanat
+#### I am a Frontend Developer
+I use JavaScript and its library React in my projects. Those are just pet projects now but I'm trying to find a job and work on a comercial projects with a team of developers.
 
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Telegram</title><path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/></svg>
+Skills: REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning TypeScript and VueJS 
+- 📫 How to reach me: yes.kanat@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Leningram)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Leningram/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/header.footer/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='40'>](https://www.codewars.com/users/Leningram)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leningram)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Leningram&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Leningram)  
+
+![GitHub metrics](https://metrics.lecoq.io/Leningram)  
+
+![Profile views](https://gpvc.arturio.dev/Leningram)  
