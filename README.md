@@ -2,7 +2,7 @@
 #### I am a Frontend Developer
 I use JavaScript and its library React in my projects. Those are just pet projects now but I'm trying to find a job and work on a comercial projects with a team of developers.
 
-Skills: REACT / JS / HTML / CSS
+#### Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning TypeScript and VueJS 
