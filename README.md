@@ -5,7 +5,7 @@ I use JavaScript and its library React in my projects. Those are just pet projec
 #### Skills:       HTML / CSS / JS / REACT / REACT NATIVE /
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning TypeScript and VueJS 
+- 🌱 I’m currently using TypeScript and VanillaJS 
 - 📫 How to reach me: yes.kanat@gmail.com || telegram <a href="https://telegram.im/@kanatyes" target="_blank">@kanatyes</a>
 
 #### You can find and get touch with me on these accounts: <br><br>
