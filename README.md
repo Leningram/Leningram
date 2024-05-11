@@ -2,10 +2,10 @@
 #### I am a Frontend Developer
 I use JavaScript and its library React in my projects. Those are just pet projects now but I'm trying to find a job and work on a comercial projects with a team of developers.
 
-#### Skills:       HTML / CSS / JS / REACT / REACT NATIVE /
+#### Skills:       HTML / CSS / JS / REACT / REACT NATIVE / FLUTTER /
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently using TypeScript and VanillaJS 
+- 🌱 I’m currently using TypeScript, VanillaJS and Flutter for mobile.
 - 📫 How to reach me: yes.kanat@gmail.com || telegram <a href="https://telegram.im/@kanatyes" target="_blank">@kanatyes</a>
 
 #### You can find and get touch with me on these accounts: <br><br>
