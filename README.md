@@ -1,6 +1,11 @@
 ### Hi there 👋, my name is Kanat
 #### I am a Frontend Developer
-I use JavaScript and its library React in my projects. Those are just pet projects now but I'm trying to find a job and work on a comercial projects with a team of developers.
+## Kanat Yesenamanov
+
+Frontend Developer with 4+ years of experience in React, Vue.js, and Flutter. Proficient in JavaScript, TypeScript, and Dart, specializing in building efficient, cross-platform mobile and web applications. Always eager to learn and take on new challenges in tech. Let's connect to collaborate or discuss innovative ideas!
+
+[LinkedIn](https://www.linkedin.com/in/leningram/) | [Telegram](https://t.me/kanatyes) | [Email](mailto:yes.kanat@gmail.com)
+
 
 #### Skills:       HTML / CSS / JS / REACT / REACT NATIVE / FLUTTER /
 
