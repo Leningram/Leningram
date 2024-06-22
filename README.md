@@ -7,7 +7,7 @@ Frontend Developer with 4+ years of experience in React, Vue.js, and Flutter. Pr
 [LinkedIn](https://www.linkedin.com/in/leningram/) | [Telegram](https://t.me/kanatyes) | [Email](mailto:yes.kanat@gmail.com)
 
 
-#### Skills:       HTML / CSS / JS / REACT / REACT NATIVE / FLUTTER /
+#### Skills:       REACT / REACT NATIVE / FLUTTER /
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently using TypeScript, VanillaJS and Flutter for mobile.
